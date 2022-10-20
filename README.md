@@ -1,5 +1,5 @@
-# general-skeleton
+# vodic-kroz-berlin
 
 [![Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-This repository provides a starting point for other (general) projects.
+Ovaj vodič sadrži listu mjesta i bilješki koji mogu biti zanimljivi gostima u Berlinu.
