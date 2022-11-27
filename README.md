@@ -4,6 +4,10 @@
 
 Ovaj vodič sadrži listu mjesta i bilješki koji mogu biti zanimljivi gostima u Berlinu.
 
+## Priprema
+
+- Rezervisati termin za posjetu Reichstag-a
+
 ## Dan 1 (Klasika)
 
 Vrijeme: 4 sata
