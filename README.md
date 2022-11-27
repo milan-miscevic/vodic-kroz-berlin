@@ -18,12 +18,15 @@ Vrijeme: 4 sata
 - U6, U5
 - Muzejsko ostrvo (Museumsinsel)
 - Berlinska katedrala (Berliner Dom)
+- Humboldt Forum
 - Marx-Engels-Forum
 - Neptunbrunnen
+- Rotes Rathaus
 - TV toranj (Fernsehturm)
 - Alexanderplatz
 - S3, S5, S7, S9
 - East Side Gallery
+- Oberbaumbrücke
 
 Pauza za kafu:
 
