@@ -28,3 +28,18 @@ Vrijeme: 4 sata
 Pauza za kafu:
 
 - Kaffeemitte, Weinmeisterstraße 9a, 10178 Berlin, U8 Weinmeisterstraße
+
+## Dan 2 (Zapadni Berlin)
+
+- Potsdamer Platz
+- Posjeta Reichstag-a
+- Siegessäule
+- KaDeWe
+- Skulptur Berlin
+- Kaiser-Wilhelm-Gedächtnis-Kirche
+- Ku'damm (Kurfürstendamm)
+- Wilmersdorfer Straße
+
+Pauza za kafu:
+
+- Impala, Wilmersdorfer Str. 67, 10629 Berlin, U7 Wilmersdorfer Straße
