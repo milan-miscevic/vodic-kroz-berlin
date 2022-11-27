@@ -67,3 +67,27 @@ Pauza za kafu:
 - Potsdam
 - Tempelhof
 - Treptower Park
+
+# Ljeti
+
+- Jezera
+- Vožnja trajektom jezerima (F10, F23)
+- Admiralbrücke
+- Kina na otvorenom
+- Großer/Kleiner Müggelsee (šetnja)
+
+Pauza za sladoled:
+
+- Da Dalt Eis, Bölschestraße 94, 12587 Berlin
+
+# Zimi
+
+- Weihnachtsmarkt
+
+# Za djecu
+
+- Tierpark
+
+# Za metalce
+
+- Trudelturm
