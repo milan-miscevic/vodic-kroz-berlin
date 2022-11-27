@@ -43,3 +43,18 @@ Pauza za kafu:
 Pauza za kafu:
 
 - Impala, Wilmersdorfer Str. 67, 10629 Berlin, U7 Wilmersdorfer Straße
+
+## Dan 3 (Alternativa)
+
+- Kreuzberg
+- Holzmarkt
+- Haus Schwarzenberg
+- Mauerpark (vikendom)
+
+## Ostalo
+
+- M29
+- Posjeta Siegessäule-a
+- Posjeta TV tornja
+- Tempelhof
+- Treptower Park
