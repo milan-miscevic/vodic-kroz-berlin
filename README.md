@@ -8,21 +8,21 @@ Ovaj vodič sadrži listu mjesta i bilješki koji mogu biti zanimljivi gostima u
 
 Vrijeme: 4 sata
 
-- Brandenburška kapija (Brandenburger Tor)
-- Memorijal ubijenim Jevrejima Evrope (Denkmal für die ermordeten Juden Europas)
+- Brandenburger Tor (Brandenburška kapija)
+- Denkmal für die ermordeten Juden Europas
 - Sowjetisches Kriegerdenkmal
-- Rajhstag (Reichstag)
+- Reichstag/Bundestag
 - Kanzleramt
 - U5, U6
 - Checkpoint Charlie
 - U6, U5
-- Muzejsko ostrvo (Museumsinsel)
-- Berlinska katedrala (Berliner Dom)
+- Museumsinsel
+- Berliner Dom
 - Humboldt Forum
 - Marx-Engels-Forum
 - Neptunbrunnen
 - Rotes Rathaus
-- TV toranj (Fernsehturm)
+- Fernsehturm (TV toranj)
 - Alexanderplatz
 - S3, S5, S7, S9
 - East Side Gallery
