@@ -68,7 +68,7 @@ Pauza za kafu:
 - Tempelhof
 - Treptower Park
 
-# Ljeti
+## Ljeti
 
 - Jezera
 - Vožnja trajektom jezerima (F10, F23)
@@ -80,14 +80,14 @@ Pauza za sladoled:
 
 - Da Dalt Eis, Bölschestraße 94, 12587 Berlin
 
-# Zimi
+## Zimi
 
 - Weihnachtsmarkt
 
-# Za djecu
+## Za djecu
 
 - Tierpark
 
-# Za metalce
+## Za metalce
 
 - Trudelturm
