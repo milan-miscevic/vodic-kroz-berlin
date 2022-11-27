@@ -10,7 +10,7 @@ Vrijeme: 4 sata
 
 - Brandenburger Tor (Brandenburška kapija)
 - Denkmal für die ermordeten Juden Europas
-- Sowjetisches Kriegerdenkmal
+- Sowjetisches Kriegerdenkmal im Tiergarten
 - Reichstag/Bundestag
 - Kanzleramt
 - U5, U6
@@ -24,8 +24,9 @@ Vrijeme: 4 sata
 - Rotes Rathaus
 - Fernsehturm (TV toranj)
 - Alexanderplatz
+- Weltzeituhr
 - S3, S5, S7, S9
-- East Side Gallery
+- East Side Gallery (Berliner Mauer)
 - Oberbaumbrücke
 
 Pauza za kafu:
@@ -50,14 +51,19 @@ Pauza za kafu:
 ## Dan 3 (Alternativa)
 
 - Kreuzberg
+- Admiralbrücke (ljeti)
 - Holzmarkt
 - Haus Schwarzenberg
 - Mauerpark (vikendom)
 
 ## Ostalo
 
+- Futurium
+- Gleisdreieck
 - M29
+- Museumssonntag
 - Posjeta Siegessäule-a
 - Posjeta TV tornja
+- Potsdam
 - Tempelhof
 - Treptower Park
