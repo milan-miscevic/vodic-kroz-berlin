@@ -10,7 +10,7 @@ Ovaj vodič sadrži listu mjesta i bilješki koji mogu biti zanimljivi gostima u
 
 ## Dan 1 (Klasika)
 
-Vrijeme: 4 sata
+Vrijeme: 4-6 sati
 
 - Brandenburger Tor (Brandenburška kapija)
 - Denkmal für die ermordeten Juden Europas
