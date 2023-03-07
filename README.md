@@ -40,6 +40,7 @@ Pauza za kafu:
 ## Dan 2 (Zapadni Berlin)
 
 - Potsdamer Platz
+- Verkehrsturm
 - Posjeta Reichstag-a
 - Siegessäule
 - KaDeWe
