@@ -95,4 +95,5 @@ Pauza za sladoled:
 
 ## Za metalce
 
-- Trudelturm
+- U Deutsche Oper (Rammstein - Mein Teil, 3:42)
+- Trudelturm (Rammstein - Zeit)
